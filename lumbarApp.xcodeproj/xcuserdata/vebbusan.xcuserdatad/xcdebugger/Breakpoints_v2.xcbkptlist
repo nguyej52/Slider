@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lumbarApp/ViewController.swift"
+            timestampString = "537913515.368071"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lumbarApp.ViewController.button1.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "lumbarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vebbusan/Documents/iOS%20App%20Development/lumbarApp/lumbarApp/ViewController.swift"
+                  timestampString = "537601348.064986"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lumbarApp.ViewController.button1.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "lumbarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vebbusan/Documents/iOS%20App%20Development/lumbarApp/lumbarApp/ViewController.swift"
+                  timestampString = "537601348.073622"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lumbarApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; lumbarApp.ViewController"
+                  moduleName = "lumbarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vebbusan/Documents/iOS%20App%20Development/lumbarApp/lumbarApp/ViewController.swift"
+                  timestampString = "537601348.0824569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lumbarApp.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;lumbarApp.ViewController&gt;"
+                  moduleName = "lumbarApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vebbusan/Documents/iOS%20App%20Development/lumbarApp/lumbarApp/ViewController.swift"
+                  timestampString = "537601348.250844"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
